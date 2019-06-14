@@ -9,19 +9,19 @@ To install the required gems:
 $ bundler install
 ```
 
-To run the (failing) test:
-
-```
-$ rake specs
-```
-
-or just:
+To run the tests:
 
 ```
 $ rake
 ```
 
-Coding Task: Mars Rover
+To run the example:
+
+```
+$ ruby runner.rb
+```
+
+### Coding Task: Mars Rover
 
  
 
